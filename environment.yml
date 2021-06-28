@@ -13,4 +13,3 @@ dependencies:
   - dask
   - scikit-learn
   - nltk
-  - collection
