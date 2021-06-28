@@ -13,5 +13,4 @@ dependencies:
   - dask
   - scikit-learn
   - nltk
-  - regex
   - collection
